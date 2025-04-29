@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋 I'm Emily Kim</h1>
 
 <p align="center">
-  💻 Johns Hopkins University <br>
-  🎓 Computer Science & Cognitive Science <br>
+   🎓 Johns Hopkins University <br>
+   💻 Computer Science & Cognitive Science <br>
   🌱 Aspiring SWE | Interested in AI/ML & Computer Vision
 </p>
 

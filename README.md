@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Emily%20Kim&fontSize=40&fontAlignY=40&desc=Aspiring%20SWE%20%7C%20AI%2FML%20%26%20Computer%20Vision&descAlignY=65&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E2E2E,100:7F00FF&height=200&section=header&text=Hi%20I'm%20Emily%20Kim&fontSize=38&fontAlignY=40&desc=Aspiring%20SWE%20%7C%20AI%2FML%20%26%20Computer%20Vision&descAlignY=65&animation=fadeIn" />
+
 
 <h1 align="center">Hi 👋 I'm Emily Kim</h1>
 

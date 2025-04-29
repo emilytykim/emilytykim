@@ -4,6 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Emily+Kim;Aspiring+Software+Engineer;Interested+in+AI/ML+and+Computer+Vision)](https://git.io/typing-svg)
 
 
+
 <p align="center">
   💻 Johns Hopkins University <br>
   🎓 Computer Science & Cognitive Science <br>

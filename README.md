@@ -10,7 +10,7 @@
   🌱 Aspiring SWE | Interested in AI/ML & Computer Vision
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilytykim)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
 <h3 align="center">🚀 Skills</h3>
 
@@ -58,9 +58,13 @@
 </p>
 
 
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilytykim)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
+<br>
 
 
 ### ✨ About Me Personally

@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋 I'm Emily Kim</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Collaborative+%F0%9F%92%AC;Creative+%F0%9F%92%A1;Action-driven+%E2%9A%A1;Love+turning+ideas+into+reality+%F0%9F%9A%80;Event+planner+•+App+builder+•+Dreamer" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=💬+Collaborative;💡+Creative;⚡+Action-driven;🚀+Love+turning+ideas+into+reality;🎁+Event+planner+•+App+builder+•+Dreamer" />
 </p>
 
 <p align="center">

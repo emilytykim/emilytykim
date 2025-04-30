@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋 I'm Emily Kim</h1>
 
-<p align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Emily+Kim;Aspiring+Software+Engineer;Interested+in+AI/ML+and+Computer+Vision)](https://git.io/typing-svg)
-</p>
 
 
 <p align="center">
